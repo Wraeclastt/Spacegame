@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.ship {
+  position: fixed;
+  height: 100px;
+  width: 100px;
+}
+
+.entity {
+  position: fixed;
+}
+
+.bullet {
+  background-color: cyan;
+  width: 4px;
+  height: 12px;
+}
